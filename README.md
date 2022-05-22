@@ -1,6 +1,6 @@
 # Re0 Web Server
 
-![avatar](https://cdn.jsdelivr.net/gh/mmdjiji/re0-webserver@main/assets/re0.jpg)
+![avatar](assets/re0.jpg)
 
 This is my first `Re0` series project. `Re0` means do something start from the very beginning, from [Re:ゼロから始める異世界生活](https://ja.wikipedia.org/wiki/Re:%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E7%95%B0%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB).
 
